@@ -1,0 +1,17 @@
+.vscode/c_cpp_properties.json
+.vscode/settings.json
+ppo_manager/src/src.code-workspace
+ppo_manager/src/__pycache__/model_net.cpython-36.pyc
+ppo_manager/src/__pycache__/model_net.cpython-37.pyc
+ppo_manager/src/__pycache__/real_PPO.cpython-36.pyc
+ppo_manager/src/__pycache__/model_net.cpython-37.pyc
+ppo_manager/src/__pycache__/real_PPO.cpython-37.pyc
+ppo_manager/src/junk/all_or_nothing.pth
+ppo_manager/src/junk/all_tasks_real_unmod_final=0.003_epochs=2000.pth
+ppo_manager/src/junk/all_tasks_real.pth
+ppo_manager/src/junk/dones.npy
+ppo_manager/src/junk/dones1.npy
+ppo_manager/src/junk/ppo_rl.pth
+ppo_manager/src/junk/reward.npy
+ppo_manager/src/junk/reward1.npy
+ppo_manager/src/__pycache__/model_net.cpython-37.pyc
